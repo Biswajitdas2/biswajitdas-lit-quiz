@@ -1,0 +1,157 @@
+@media screen and (max-width:600px) {
+    .navbar{
+        min-width: 200px;
+        text-align: center;
+        overflow: hidden;
+        font-size: 14px;
+    }
+    .navbar p{
+        text-align: center;
+    }
+    body{
+        min-height: 50vh;
+        min-width: 340px;
+        overflow-x: hidden;
+        
+    }
+    .main1{
+        overflow: hidden;
+        min-width: 300px;
+        overflow-y: hidden;
+        overflow-x: hidden;
+
+    }
+    .list-sub{
+        display: none;
+    }
+    p{
+        max-width: 350px;
+    }
+    .qustion3-div{
+        margin-top: 70px;
+        max-width: 350px;
+    }
+    .numer-system{
+        min-width: 200px;
+        overflow-y: hidden;
+        width: 300px;
+        display: none;
+        overflow-x: hidden;
+    }
+    .main1{
+        max-width: 300px;
+    }
+   .option-div{
+    max-width: 300px;
+   }
+   .qustion1-div{
+    min-height: 40vh;
+    max-width: 340px;
+    
+   }
+   .ans1-div{
+    width: 500px;
+   }
+   .option2-div{
+    max-width: 300px;
+   }
+   .qustion2-div{
+    min-height: 40vh;
+    max-width: 350px;
+   }
+   .option3-div{
+    max-width: 300px;
+   }
+   .qustion3-div{
+    min-height: 40vh;
+   }
+   .option4-div{
+    max-width: 300px;
+    min-width: 300px;
+   
+   }
+   .qustion4-div{
+    min-height: 40vh;
+   }
+   .option5-div{
+    max-width: 300px;
+    min-width: 300px;
+    width: fit-content;
+   }
+   .qustion5-div{
+    min-height: 40vh;
+
+   }
+   .option6-div{
+    max-width: 300px;
+    min-width: 300px;
+   }
+   .qustion6-div{
+    min-height: 40vh;
+    min-width: 300px;
+   }
+   .option7-div{
+    max-width: 300px;
+   }
+   .qustion7-div{
+    min-height: 40vh;
+    min-width: 300px;
+   }
+   .option8-div{
+    max-width: 300px;
+    min-width: 300px;
+   }
+   .qustion8-div{
+    min-height: 40vh;
+   }
+   .option9-div{
+    min-width: 300px;
+    max-width: 300px;
+   }
+   .qustion9-div{
+    min-height: 40vh;
+   }
+   .option10-div{
+    max-width: 300px;
+    min-width: 300px;
+   }
+   .qustion10-div{
+    min-height: 40vh;
+   }
+   .option11-div{
+    max-width: 300px;
+    min-width: 300px;
+   }
+   .qustion11-div{
+    min-height: 40vh;
+   }
+   .option12-div{
+    max-width: 300px;
+    min-width: 300px;
+   }
+   .qustion12-div{
+    min-height: 40vh;
+   }
+   .option13-div{
+    max-width: 300px;
+    min-width: 300px;
+   }
+   .qustion13-div{
+    min-height: 40vh;
+
+   }
+   .option14-div{
+    max-width: 300px;
+    min-width: 300px;
+   }
+   .qustion14-div{
+    min-height: 40vh;
+   }
+   .option15-div{
+    max-width: 300px;
+   }
+   .qustion15-div{
+    min-width: 300px;
+    min-height: 40vh;
+   }
+}
